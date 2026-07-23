@@ -1,66 +1,142 @@
+<div align="center">
+
 # Olamilekan Adeyemi
 
-### Flutter Engineer · Full-Stack Product Developer
+### Flutter & Full-Stack Product Engineer
 
-I design, build, and ship dependable digital products across **mobile and web** — from product implementation and API integration through deployment, store release, and production support.
+I build production-ready mobile and web products—from architecture and polished interfaces to APIs, payments, deployment, and store release.
 
-## Mobile products
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</p>
+
+<p>
+  <a href="https://github.com/lekthedeveloper"><img src="https://img.shields.io/badge/GitHub-View_Public_Work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Lagos%2C_Nigeria-0A8A7F?style=flat-square" alt="Lagos, Nigeria" />
+  <img src="https://img.shields.io/badge/Open_to-Roles_%26_Collaborations-6C63FF?style=flat-square" alt="Open to roles and collaborations" />
+</p>
+
+</div>
+
+---
+
+## Featured mobile products
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ Lumen Charge
 
-An EV-charging mobile experience that helps drivers discover charging stations, monitor charging activity, and manage payments from their phones.
+An EV-charging experience that helps drivers discover charging stations, monitor charging activity, and manage payments from mobile.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.lumencharge.app) · [App Store](https://apps.apple.com/ng/app/lumencharge/id6744317966) · [Product website](https://lumencharge.com/)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.lumencharge.app)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/ng/app/lumencharge/id6744317966)
+[![Website](https://img.shields.io/badge/Website-Visit-0A8A7F?style=flat-square&logo=safari&logoColor=white)](https://lumencharge.com/)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🚀 Vendor Rail
 
-A cross-platform marketplace connecting service seekers with trusted service providers. I developed and maintain the mobile product with a focus on polished user experiences, secure user journeys, and dependable production performance.
+A cross-platform marketplace connecting service seekers with providers, focused on secure user journeys, responsive experiences, and dependable production performance.
 
-Available on iOS and Android.
+**iOS · Android · Flutter**
 
-## Selected platforms and client work
+</td>
+</tr>
+</table>
 
-### ⚓ Bottom Time Dive Service
+---
 
-A responsive service-commerce platform for vessel intake, package selection, pricing, and secure online checkout.
+## What I can build
 
-### 📊 Sapentia CPA
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A professional services platform supporting tax preparation, accounting services, consultation booking, client intake, and online payments.
+### 📱 Mobile product engineering
 
-[Visit Sapentia CPA](https://sapentiacpa.com/)
+- Cross-platform iOS and Android applications
+- Responsive interfaces and reusable design systems
+- Authentication, biometrics, and secure local storage
+- State management, navigation, and deep linking
+- Real-time data, background synchronization, and crash monitoring
+- Play Store and App Store release workflows
 
-### 💻 Stonera Tech
+</td>
+<td width="50%" valign="top">
 
-A modern, responsive technology-services web experience built to present the company’s capabilities and convert visitors into clients.
+### 🌐 Full-stack web platforms
 
-[Visit Stonera Tech](https://stoneratech.space/)
+- Responsive React and Next.js applications
+- TypeScript and JavaScript frontends
+- Client portals, admin dashboards, and service platforms
+- REST API integration and server-side workflows
+- Database-backed products and role-based access
+- Cloud deployment and production configuration
 
-### 🎓 Nicademy
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A multi-portal education platform spanning learner-facing experiences, administration, backend services, and payment workflows.
+### 💳 Payments and integrations
 
-### 🏗️ MAJ Engineering Team
+- Stripe and Flutterwave payment experiences
+- Checkout, billing, and transaction workflows
+- Third-party API and service integrations
+- Secure authentication and authorization flows
+- Error handling, monitoring, and recovery
 
-An architectural visualization and engineering website designed to showcase projects, services, and the team’s work.
+</td>
+<td width="50%" valign="top">
 
-## What I work with
+### 🧩 Architecture and delivery
 
-- **Mobile:** Flutter, Dart, responsive UI, native platform integration
-- **Web:** TypeScript, JavaScript, React, Next.js, responsive product interfaces
-- **Engineering:** Scalable architecture, state management, routing, testing
-- **Integration:** REST APIs, authentication, secure storage, real-time data, payments
-- **Production:** Monitoring, performance improvements, cloud deployment, App Store and Play Store releases
-- **Product delivery:** Turning business ideas and designs into maintainable, user-ready applications
+- Feature-driven, maintainable application architecture
+- Clean separation of UI, domain, and data layers
+- Testing, debugging, and performance optimization
+- CI/CD-ready repositories and environment configuration
+- Turning product requirements into production-ready releases
 
-## Current focus
+</td>
+</tr>
+</table>
 
-- Building dependable products that solve real business problems
-- Improving application performance, reliability, and release quality
-- Creating thoughtful user experiences for African and global markets
+---
 
-## Let’s connect
+## Core stack
 
-I’m based in **Lagos, Nigeria** and open to engineering roles, product collaborations, and ambitious mobile or web projects.
+| Area | Technologies |
+|---|---|
+| **Mobile** | Flutter, Dart, native platform integration |
+| **Frontend** | React, Next.js, TypeScript, JavaScript |
+| **Backend** | Go, Node.js, REST APIs |
+| **Data & state** | SQL-backed applications, secure storage, real-time state |
+| **Delivery** | GitHub, Netlify/cloud deployment, monitoring, mobile store releases |
 
-[View my public GitHub work](https://github.com/lekthedeveloper)
+---
+
+## Currently focused on
+
+- Shipping reliable products that solve real business problems
+- Building smooth, accessible experiences for mobile and web
+- Improving performance, security, and release quality
+- Creating products for African and global markets
+
+---
+
+<div align="center">
+
+### Let’s build something useful
+
+Based in **Lagos, Nigeria** · Open to engineering roles and product collaborations
+
+[![GitHub](https://img.shields.io/badge/Explore_my_public_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lekthedeveloper)
+
+</div>
