@@ -10,6 +10,7 @@ I build production-ready mobile and web products—from architecture and polishe
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
@@ -32,9 +33,9 @@ I build production-ready mobile and web products—from architecture and polishe
 
 ### ⚡ Lumen Charge
 
-An EV-charging experience that helps drivers discover charging stations, monitor charging activity, and manage payments from mobile.
+An EV-charging experience that helps drivers discover charging stations, monitor charging activity, and manage payments from mobile. Its Flutter architecture uses Riverpod to coordinate app-wide and asynchronous state.
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.lumencharge.app)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.lumencharge)
 [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/ng/app/lumencharge/id6744317966)
 [![Website](https://img.shields.io/badge/Website-Visit-0A8A7F?style=flat-square&logo=safari&logoColor=white)](https://lumencharge.com/)
 
@@ -62,6 +63,7 @@ A cross-platform marketplace connecting service seekers with providers, focused 
 
 ### 🔄 State management
 
+- Riverpod for scalable, testable, and reactive application state
 - Provider and ChangeNotifier for shared application state
 - Local widget state for focused, isolated UI interactions
 - Reactive UI updates and derived state
@@ -107,6 +109,7 @@ A cross-platform marketplace connecting service seekers with providers, focused 
 
 ### 🌐 Full-stack web platforms
 
+- React component architecture, hooks, and reusable UI systems
 - Responsive React and Next.js applications
 - TypeScript and JavaScript frontends
 - Client portals, admin dashboards, and service platforms
@@ -130,12 +133,13 @@ A cross-platform marketplace connecting service seekers with providers, focused 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Architecture and delivery
+### ☁️ Architecture, cloud, and delivery
 
 - Feature-driven, maintainable application architecture
 - Clean separation of UI, domain, and data layers
-- Testing, debugging, and performance optimization
-- CI/CD-ready repositories and environment configuration
+- AWS, Google Cloud, and Hetzner Cloud deployments
+- Environment configuration, monitoring, and production debugging
+- CI/CD-ready repositories and release workflows
 - Turning product requirements into production-ready releases
 
 </td>
@@ -150,10 +154,10 @@ A cross-platform marketplace connecting service seekers with providers, focused 
 |---|---|
 | **Mobile** | Flutter, Dart, native platform integration |
 | **Frontend** | React, Next.js, TypeScript, JavaScript |
-| **Backend** | Go, Node.js, REST APIs |
-| **State management** | Provider, ChangeNotifier, MultiProvider, reactive UI, local widget state |
+| **Backend** | Go, Node.js, REST APIs; Python working proficiency |
+| **State management** | Riverpod, Provider, ChangeNotifier, MultiProvider, reactive UI, local widget state |
 | **Data** | SQL-backed applications, secure storage, API-driven and real-time data |
-| **Delivery** | GitHub, Netlify/cloud deployment, monitoring, mobile store releases |
+| **Cloud & delivery** | AWS, Google Cloud, Hetzner Cloud, Netlify, GitHub, CI/CD, monitoring, mobile store releases |
 
 ---
 
