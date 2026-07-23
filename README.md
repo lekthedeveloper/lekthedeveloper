@@ -65,6 +65,38 @@ A personal product prototype where users can submit and sell gift cards for cash
 
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6pcIc7bYqqo)
 
+### 🎮 Gamieo — Challenges, Leaderboards & Rewards Platform
+
+A gamified web-product demo featuring player profiles, challenges, achievements, leaderboards, rewards, progress tracking, power-ups, and an administration dashboard.
+
+> **Status:** Personal portfolio demo — not publicly released.
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=al9HhAFnHNY)
+
+### 🤖 CIGChat — Messenger Marketing Automation Platform
+
+A full-stack Messenger marketing automation platform with a visual chatbot builder, conditional logic, targeted and scheduled broadcasts, real-time analytics, and audience segmentation. Built with React, Python, Supabase, and Docker.
+
+> **Status:** Full-stack product demo — not publicly released.
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ybXnH1NsAQM)
+
+### 🏦 Digital Banking App — Mobile UI/UX Prototype
+
+A personal mobile-banking prototype demonstrating virtual card management, spending limits, recent transactions, card controls, and a polished mobile-first financial dashboard.
+
+> **Status:** Personal UI/UX prototype — not an app-store release.
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=sLP3_8YjBLk)
+
+### 🎓 EdTech Mobile App — Accessible Learning UI/UX Prototype
+
+A mobile education-product prototype featuring polished authentication and account-access screens, responsive layouts, readable hierarchy, intuitive navigation, and a consistent mobile-first visual system.
+
+> **Status:** UI/UX prototype — not an app-store release.
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=DL0nz2nUhJk)
+
 ---
 
 ## Flutter engineering depth
