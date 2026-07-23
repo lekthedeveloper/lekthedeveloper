@@ -55,6 +55,18 @@ A cross-platform marketplace connecting service seekers with providers, focused 
 
 ---
 
+## Selected product demos
+
+### 💳 Gift Card Exchange — Personal Marketplace Demo
+
+A personal product prototype where users can submit and sell gift cards for cash. The demo showcases a clear mobile marketplace flow, conversion-focused UI, and an accessible experience for turning supported gift cards into money.
+
+> **Status:** Personal demo project — not yet published to an app store.
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6pcIc7bYqqo)
+
+---
+
 ## Flutter engineering depth
 
 <table>
