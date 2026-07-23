@@ -102,7 +102,9 @@ A cross-platform marketplace connecting service seekers with providers, focused 
 - Authentication, biometrics, and secure local storage
 - State management, navigation, and deep linking
 - Real-time data, background synchronization, and crash monitoring
-- Play Store and App Store release workflows
+- End-to-end App Store and Google Play delivery
+- Signing, build configuration, store submission, staged rollout, and updates
+- Multi-store release and production deployment workflows
 
 </td>
 <td width="50%" valign="top">
@@ -137,7 +139,7 @@ A cross-platform marketplace connecting service seekers with providers, focused 
 
 - Feature-driven, maintainable application architecture
 - Clean separation of UI, domain, and data layers
-- AWS, Google Cloud, and Hetzner Cloud deployments
+- AWS, Google Cloud, Hetzner Cloud, Render, and Vercel deployments
 - Environment configuration, monitoring, and production debugging
 - CI/CD-ready repositories and release workflows
 - Turning product requirements into production-ready releases
@@ -157,7 +159,7 @@ A cross-platform marketplace connecting service seekers with providers, focused 
 | **Backend** | Go, Node.js, REST APIs; Python working proficiency |
 | **State management** | Riverpod, Provider, ChangeNotifier, MultiProvider, reactive UI, local widget state |
 | **Data** | SQL-backed applications, secure storage, API-driven and real-time data |
-| **Cloud & delivery** | AWS, Google Cloud, Hetzner Cloud, Netlify, GitHub, CI/CD, monitoring, mobile store releases |
+| **Cloud & delivery** | AWS, Google Cloud, Hetzner Cloud, Render, Vercel, Netlify, GitHub, CI/CD, and monitoring |
 
 ---
 
