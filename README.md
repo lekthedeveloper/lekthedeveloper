@@ -41,11 +41,45 @@ An EV-charging experience that helps drivers discover charging stations, monitor
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Vendor Rail
+### 🚀 Vendorail
 
 A cross-platform marketplace connecting service seekers with providers, focused on secure user journeys, responsive experiences, and dependable production performance.
 
-**iOS · Android · Flutter**
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vendorail)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/vendorail/id6776648272)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Flutter engineering depth
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 State management
+
+- Provider and ChangeNotifier for shared application state
+- Local widget state for focused, isolated UI interactions
+- Reactive UI updates and derived state
+- Loading, success, empty, and error-state handling
+- MultiProvider composition and dependency injection
+- Clear separation between UI state, services, and data sources
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Mobile architecture
+
+- Feature-driven, modular Flutter project structure
+- Repository and service layers for APIs and persistence
+- Reusable widgets, design systems, forms, and validation
+- Authentication, session handling, and secure storage
+- Navigation, deep linking, background work, and monitoring
+- Environment configuration and production release workflows
 
 </td>
 </tr>
@@ -117,7 +151,8 @@ A cross-platform marketplace connecting service seekers with providers, focused 
 | **Mobile** | Flutter, Dart, native platform integration |
 | **Frontend** | React, Next.js, TypeScript, JavaScript |
 | **Backend** | Go, Node.js, REST APIs |
-| **Data & state** | SQL-backed applications, secure storage, real-time state |
+| **State management** | Provider, ChangeNotifier, MultiProvider, reactive UI, local widget state |
+| **Data** | SQL-backed applications, secure storage, API-driven and real-time data |
 | **Delivery** | GitHub, Netlify/cloud deployment, monitoring, mobile store releases |
 
 ---
