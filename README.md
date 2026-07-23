@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olamilekan Adeyemi
 
-<!--
-**lekthedeveloper/lekthedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Engineer · Mobile Product Developer
 
-Here are some ideas to get you started:
+I build and ship reliable cross-platform applications for **iOS and Android** — from product implementation and API integration through store release and production support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Shipped products
+
+### ⚡ Lumen Charge
+
+An EV-charging mobile experience that helps drivers discover charging stations, monitor charging activity, and manage payments from their phones.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.lumencharge.app) · [App Store](https://apps.apple.com/ng/app/lumencharge/id6744317966) · [Product website](https://lumencharge.com/)
+
+### 🚀 Vendor Rail
+
+A cross-platform marketplace connecting service seekers with trusted service providers. I developed and maintain the mobile product with a focus on polished user experiences, secure user journeys, and dependable production performance.
+
+Available on iOS and Android.
+
+## What I work with
+
+- **Mobile:** Flutter, Dart, responsive UI, native platform integration
+- **Engineering:** Scalable mobile architecture, state management, routing, testing
+- **Integration:** REST APIs, authentication, secure local storage, real-time data
+- **Production:** Error monitoring, performance improvements, App Store and Play Store releases
+- **Product delivery:** Turning ideas and designs into maintainable, user-ready applications
+
+## Current focus
+
+- Building dependable mobile products that solve real business problems
+- Improving application performance, reliability, and release quality
+- Creating thoughtful user experiences for African and global markets
+
+## Let’s connect
+
+I’m based in **Lagos, Nigeria** and open to mobile engineering roles, product collaborations, and ambitious Flutter projects.
+
+[View my GitHub work](https://github.com/lekthedeveloper)
